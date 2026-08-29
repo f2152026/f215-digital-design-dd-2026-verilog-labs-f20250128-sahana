@@ -22,6 +22,5 @@ module FA_Gate(
   and #(2) (pc2, cin, ps);
   and #(2) (pc1, a,   b);
   
-  
 
 endmodule
